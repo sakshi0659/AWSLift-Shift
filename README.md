@@ -99,7 +99,6 @@ This architecture ensures *scalability, high availability, and fault tolerance* 
 ---
 
 ## 🔗 Project Links
-🎥 *Demo Video:* [Add YouTube/Drive Link]  
 💼 *LinkedIn Post:*  https://www.linkedin.com/posts/sakshisharma48_aws-cloudcomputing-liftandshift-activity-7370149757861867520-NXks  
 
 
