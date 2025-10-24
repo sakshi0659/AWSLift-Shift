@@ -77,7 +77,8 @@ This architecture ensures *scalability, high availability, and fault tolerance* 
 --- 
 ## ⚙️ Architecture Diagram  
 
-![Architecture Diagram](https://github.com/user-attachments/assets/c27ded08-d444-44d0-aa36-8d36401502b7)
+![Architecture Diagram](![ArchitectureDiagram](https://github.com/user-attachments/assets/287fbe62-287d-4948-af04-772f51880ffb)
+)
 
 ---
 
